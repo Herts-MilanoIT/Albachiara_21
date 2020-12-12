@@ -1,18 +1,6 @@
 
 
-<!--
-<div class="navbar nav">
-
-  <ul>
-    <li><a href="index.php?action=home">Home</a></li>
-    <li><a href="Views/Modules/who-we-are.php" target="_blank">Who We Are</a></li>
-    <li><a href="index.php?action=products" target="_blank">Products</a></li>
-    <li><a href="index.php?action=services">Services</a></li>
-    <li><a href="index.php?action=contacts">Contacts</a></li>
-
-  </ul>
-
-</div>-->
+<!--  -->
 
 
 <div class="topnav" id="myTopnav">
